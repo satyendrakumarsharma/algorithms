@@ -1,2 +1,6 @@
 # algorithms
-Basic Algorithms, which I have been learning
+Basic Algorithms, which I have been learning.
+
+#1 Sorting
+## Selection Sort
+
