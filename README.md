@@ -5,3 +5,4 @@ Basic Algorithms, which I have been learning.
 ## Selection Sort
 ## Bubble Sort
 ## Insertion Sort
+## Merge Sort
