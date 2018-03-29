@@ -27,7 +27,7 @@ public interface Sort<T> {
 	 *            the array to be sorted.
 	 */
 	public default void sort(T[] arr) {
-
+		// empty default method for backward compatibility
 	}
 
 }
